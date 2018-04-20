@@ -1,0 +1,14 @@
+Below is a break-down of what every folder contains 
+
+Executables:
+	contains two executable files for both windows and linux/unix based systems like 	mac.file names will have to have a fully qualified path if using the executables
+
+Interface:
+	contains the screenShots of the system in action
+
+Text_Analyzer_Mac:
+	contains the program optimized for Netbeans IDE in MacOS so it can be imported
+	
+
+Text_Analyzer_windows:
+	contains the program optimized for virtual studio IDE in windows OS so it can be 	imported
